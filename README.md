@@ -12,7 +12,7 @@ Adult Census Income - https://archive.ics.uci.edu/dataset/2/adult
 Trello Board
 https://trello.com/b/CbBYtSN8/comp542-group-4-task-board
 
-## Results in individual notebooks (pre-hyperparameter tuning)
+## Results (pre-hyperparameter tuning)
 
 | Model | Accuracy | Precision | F1-score | AUC/ROC | Cross-validation accuracy |
 |---|---:|---:|---:|---:|---:|
@@ -23,7 +23,7 @@ https://trello.com/b/CbBYtSN8/comp542-group-4-task-board
 | Logistic Regression | 0.8506 | 0.7202 | 0.6667 | 0.9078 | 0.8513 |
 | Naive Bayes | 0.5534 | 0.3458 | 0.5082 | 0.7734 | 0.5421 |
 
-## Results in individual notebooks (post-hyperparameter tuning)
+## Results (post-hyperparameter tuning)
 
 | Model | Accuracy | Precision | F1-score | AUC/ROC | Cross-validation accuracy |
 |---|---:|---:|---:|---:|---:|
