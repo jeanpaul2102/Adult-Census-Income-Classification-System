@@ -4,6 +4,9 @@
 - Janeth Lucero Garcia Rodriguez
 - Daniel Graham
 
+## GitHub Repo
+https://github.com/nexus1976/COM542
+
 ## Dataset
 UC Irvine Machine Learning Repository
 Adult Census Income - https://archive.ics.uci.edu/dataset/2/adult 
