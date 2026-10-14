@@ -1,4 +1,4 @@
-# COMP542 - Group 4 ML Project
+# COMP542 - Group 4 Machine Learning Project
 ### Members
 - Jean Paul Collazo
 - Janeth Lucero Garcia Rodriguez
